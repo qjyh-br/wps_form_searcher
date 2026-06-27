@@ -9,6 +9,7 @@
   <br>
   <img alt="version" src="https://img.shields.io/badge/version-3.1-brightgreen">
   <img alt="stars" src="https://img.shields.io/github/stars/qjyh-br/wps_form_searcher?style=social">
+  <img alt="downloads" src="https://img.shields.io/greasyfork/dt/584527?style=social">
 </p>
 
 <div align="center">
